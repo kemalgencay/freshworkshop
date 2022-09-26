@@ -1,6 +1,6 @@
 ---
 title: The Second
-publish_at: 2022-06-28T13:49:37.703Z
+publish_at: 2022-09-26
 snippet: The next blog entry.
 ---
 
