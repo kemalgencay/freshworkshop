@@ -1,7 +1,9 @@
 ---
-title: Hello World
-publish_at: 2022-06-26T13:49:37.703Z
-snippet: My first blog entry.
+title: Merhaba Deno meraklıları
+publish_at: 2022-08-28
+snippet: Birinci yazım.
 ---
 
 Hey folks, this is my _new_ blog.
+
+Hadi bakalım geldik
