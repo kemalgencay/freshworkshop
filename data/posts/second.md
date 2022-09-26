@@ -1,7 +1,7 @@
 ---
 title: The Second
-publish_at: 2022-09-26
-snippet: The next blog entry.
+publish_at: 2022-09-25
+snippet: Bir sayfa daha.
 ---
 
 This is my second blog entry, which has headings and tables:
